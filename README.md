@@ -61,11 +61,15 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![addasm](https://github.com/user-attachments/assets/834dd67f-5a03-447d-857f-926499876ee8)
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="640" height="480" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/eb141a95-e574-4f45-aaf7-bd7d5e1f622b" />
+<img width="640" height="480" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/9e5413aa-80c4-4303-ac98-c79e0182a676" />
+
 
 ## 2. SUBTRACTION
 
@@ -83,9 +87,24 @@ END
 
 
 #### Program
-
-
-
+```asm
+code segment
+assume cs:code,ds:code
+org 1000h
+mov si,1200h
+mov ax,[si]
+mov bx,[si+02h]
+mov cl,00h
+mov ax,bx
+jnc l1
+inc cl
+l1:mov[si+04h],ax
+mov [si+06h],cl
+mov ah,4ch
+int 21h
+code ends
+end
+```
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -94,12 +113,16 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![subasm](https://github.com/user-attachments/assets/ecf28e19-9d6b-45c0-8d81-4c276c9d8550)
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="640" height="480" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/dd65e6d4-700a-4083-a5e7-2ef85795da0c" />
+<img width="640" height="480" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/4b9ac7aa-f261-4787-b590-c35fd1d5be9b" />
+
 
 ## 3. MULTIPLICATION
 
@@ -145,9 +168,13 @@ END
 
 (Add your calculation here)
 
----
+![mulasm](https://github.com/user-attachments/assets/445aa40d-2c6b-4fc8-8d47-c92df09b327a)
+
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="640" height="480" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/aa57f423-11a0-4229-b58f-13951c5d5f3f" />
+<img width="640" height="480" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/ee739d1c-66c0-4746-9fa5-8a28502f7ac8" />
+
 
 ## 4. DIVISION
 
@@ -188,12 +215,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![divasm](https://github.com/user-attachments/assets/47825915-053d-475d-84f2-848cacd5d155)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-
-
+<img width="640" height="480" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/4dd9db22-956c-465c-8525-381ee228e113" />
+![div masm](https://github.com/user-attachments/assets/d170a72d-4e34-49b4-83c3-4ffa3e9c35bd)
 
 ## RESULT
 
