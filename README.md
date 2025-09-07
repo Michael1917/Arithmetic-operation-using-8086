@@ -121,7 +121,9 @@ end
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="640" height="480" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/81546d6f-ec44-4a5b-8b04-3d3811b79252" />
-<img width="640" height="480" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/62cfbf33-0b8e-4fb9-af12-745aeee75ea9" />
+<img width="640" height="480" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/ddb76229-d99b-4e85-b320-8e7ff1aa4f41" />
+
+
 
 
 ## 3. MULTIPLICATION
@@ -172,8 +174,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="640" height="480" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/c8f42e5a-b2fe-4e5b-9a43-1229cbf9b6f8" />
-<img width="640" height="480" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/5c25f9f6-462d-4867-ba5a-9d3df1b7a860" />
+![WhatsApp Image 2025-09-07 at 22 18 40 (1)](https://github.com/user-attachments/assets/49dec03a-dd6f-4ab8-966b-dcd43554acf0)
+![WhatsApp Image 2025-09-07 at 22 18 30](https://github.com/user-attachments/assets/ffdef407-d9f8-4d20-9765-109bd6a0ab3f)
 
 
 ## 4. DIVISION
@@ -211,8 +213,8 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|  1200: 12               | 1204: 24                 |
+| ----------------------- | ------------------------ |
 #### Manual Calculations
 
 ![divasm](https://github.com/user-attachments/assets/47825915-053d-475d-84f2-848cacd5d155)
@@ -220,8 +222,9 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-<img width="640" height="480" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e9ab54fc-c14c-49b4-a60c-86473c1d0265" />
-<img width="640" height="480" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/224e0980-6247-4419-b866-c12be4204305" />
+![WhatsApp Image 2025-09-07 at 22 27 10 (1)](https://github.com/user-attachments/assets/b065c35e-824b-455d-a3a5-0c198a2d4f18)
+![WhatsApp Image 2025-09-07 at 22 27 10 (2)](https://github.com/user-attachments/assets/22ecf79d-c53e-4ed7-8a20-e0ec38b24621)
+
 
 ## RESULT
 
