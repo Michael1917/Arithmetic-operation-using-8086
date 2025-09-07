@@ -67,8 +67,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="640" height="480" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/eb141a95-e574-4f45-aaf7-bd7d5e1f622b" />
-<img width="640" height="480" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/9e5413aa-80c4-4303-ac98-c79e0182a676" />
+<img width="640" height="480" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/ee4851ca-0275-46ec-a1c7-9404c482b50f" />
+<img width="640" height="480" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/8f0556de-c9cf-45df-bfb5-59dd29d82f7e" />
 
 
 ## 2. SUBTRACTION
@@ -120,8 +120,8 @@ end
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="640" height="480" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/dd65e6d4-700a-4083-a5e7-2ef85795da0c" />
-<img width="640" height="480" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/4b9ac7aa-f261-4787-b590-c35fd1d5be9b" />
+<img width="640" height="480" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/81546d6f-ec44-4a5b-8b04-3d3811b79252" />
+<img width="640" height="480" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/62cfbf33-0b8e-4fb9-af12-745aeee75ea9" />
 
 
 ## 3. MULTIPLICATION
@@ -172,8 +172,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="640" height="480" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/aa57f423-11a0-4229-b58f-13951c5d5f3f" />
-<img width="640" height="480" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/ee739d1c-66c0-4746-9fa5-8a28502f7ac8" />
+<img width="640" height="480" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/c8f42e5a-b2fe-4e5b-9a43-1229cbf9b6f8" />
+<img width="640" height="480" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/5c25f9f6-462d-4867-ba5a-9d3df1b7a860" />
 
 
 ## 4. DIVISION
@@ -220,9 +220,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-<img width="640" height="480" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/4dd9db22-956c-465c-8525-381ee228e113" />
-
-![div masm](https://github.com/user-attachments/assets/94829837-65ee-4281-846a-3895f0f7cedd)
+<img width="640" height="480" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e9ab54fc-c14c-49b4-a60c-86473c1d0265" />
+<img width="640" height="480" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/224e0980-6247-4419-b866-c12be4204305" />
 
 ## RESULT
 
