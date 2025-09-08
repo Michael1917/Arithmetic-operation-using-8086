@@ -71,7 +71,9 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
 <img width="640" height="480" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/22380dbb-b747-4879-a644-409a3febd7aa" />
+
 <img width="640" height="480" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/5a34a80d-d33e-4b20-8b51-e1979ba9a65a" />
 
 
@@ -130,7 +132,9 @@ end
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
 <img width="640" height="480" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/96993129-923b-40fb-b796-c6d8179a6143" />
+
 <img width="640" height="480" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/0bc0e75c-5d11-47b1-8adf-cea5503f9a8f" />
 
 
